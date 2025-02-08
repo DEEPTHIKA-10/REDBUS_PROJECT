@@ -1,0 +1,631 @@
+Bus_name,Bus_type,Start_time,End_time,Total_duration,Price,Seats_Available,Ratings,Route_link,Route_name,state
+FRESHBUS,Electric A/C Seater (2+2),22:35,05:40,07h 05m,328,27 Seats available,"4.7
+577",https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Hyderabad to Vijayawada,APSRTC
+IntrCity SmartBus,A/C Seater / Sleeper (2+1),23:05,06:00,06h 55m,INR 319,27 Seats available,"4.6
+921",https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Hyderabad to Vijayawada,APSRTC
+IntrCity SmartBus,AC Sleeper (2+1),23:50,06:00,06h 10m,INR 499,17 Seats available,"4.6
+880",https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Hyderabad to Vijayawada,APSRTC
+FRESHBUS,,18:00,23:40,05h 40m,328,32 Seats available,4.7,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Hyderabad to Vijayawada,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/hyderabad-to-vijayawada,Hyderabad to Vijayawada,APSRTC
+APSRTC - 35133,AMARAVATHI (VOLVO / SCANIA A.C Multi Axle),16:00,21:55,05h 55m,INR 720,34 Seats available,"3.8
+74",https://www.redbus.in/bus-tickets/vijayawada-to-hyderabad,Vijayawada to Hyderabad,APSRTC
+APSRTC - 35271,INDRA(A.C. Seater),16:00,22:05,06h 05m,INR 567,31 Seats available,"3.0
+67",https://www.redbus.in/bus-tickets/vijayawada-to-hyderabad,Vijayawada to Hyderabad,APSRTC
+APSRTC - 35061,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",16:00,00:10,08h 10m,INR 469,29 Seats available,"2.9
+4",https://www.redbus.in/bus-tickets/vijayawada-to-hyderabad,Vijayawada to Hyderabad,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/vijayawada-to-hyderabad,Vijayawada to Hyderabad,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/vijayawada-to-hyderabad,Vijayawada to Hyderabad,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/vijayawada-to-hyderabad,Vijayawada to Hyderabad,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/vijayawada-to-hyderabad,Vijayawada to Hyderabad,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/vijayawada-to-hyderabad,Vijayawada to Hyderabad,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/vijayawada-to-hyderabad,Vijayawada to Hyderabad,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/vijayawada-to-hyderabad,Vijayawada to Hyderabad,APSRTC
+APSRTC - 9603,Express Non AC Seater 2+3,16:00,22:20,06h 20m,INR 296,41 Seats available,"3.4
+7",https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Bangalore to Tirupati,APSRTC
+APSRTC - 3879,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",16:15,23:00,06h 45m,INR 426,31 Seats available,"3.6
+18",https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Bangalore to Tirupati,APSRTC
+APSRTC - 4157,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",16:45,23:00,06h 15m,INR 426,31 Seats available,"3.8
+29",https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Bangalore to Tirupati,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Bangalore to Tirupati,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Bangalore to Tirupati,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Bangalore to Tirupati,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Bangalore to Tirupati,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Bangalore to Tirupati,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Bangalore to Tirupati,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/bangalore-to-tirupathi,Bangalore to Tirupati,APSRTC
+APSRTC - 6005,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",16:30,23:30,07h 00m,INR 472,30 Seats available,"4.3
+38",https://www.redbus.in/bus-tickets/bangalore-to-kadapa,Bangalore to Kadapa,APSRTC
+APSRTC - 5779,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",17:15,23:50,06h 35m,INR 443,31 Seats available,"1.7
+19",https://www.redbus.in/bus-tickets/bangalore-to-kadapa,Bangalore to Kadapa,APSRTC
+APSRTC - 5226,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",17:45,02:00,08h 15m,INR 472,31 Seats available,3.8,https://www.redbus.in/bus-tickets/bangalore-to-kadapa,Bangalore to Kadapa,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/bangalore-to-kadapa,Bangalore to Kadapa,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/bangalore-to-kadapa,Bangalore to Kadapa,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/bangalore-to-kadapa,Bangalore to Kadapa,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/bangalore-to-kadapa,Bangalore to Kadapa,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/bangalore-to-kadapa,Bangalore to Kadapa,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/bangalore-to-kadapa,Bangalore to Kadapa,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/bangalore-to-kadapa,Bangalore to Kadapa,APSRTC
+APSRTC - 2524,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",16:15,20:15,04h 00m,INR 281,34 Seats available,3.8,https://www.redbus.in/bus-tickets/kakinada-to-visakhapatnam,Kakinada to Visakhapatnam,APSRTC
+APSRTC - 2695,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",16:30,19:30,03h 00m,INR 281,30 Seats available,"3.8
+40",https://www.redbus.in/bus-tickets/kakinada-to-visakhapatnam,Kakinada to Visakhapatnam,APSRTC
+APSRTC - 3406,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",16:45,20:30,03h 45m,INR 281,34 Seats available,"2.5
+6",https://www.redbus.in/bus-tickets/kakinada-to-visakhapatnam,Kakinada to Visakhapatnam,APSRTC
+APSRTC - 2891,,17:00,20:00,03h 00m,INR 340,,3.5,https://www.redbus.in/bus-tickets/kakinada-to-visakhapatnam,Kakinada to Visakhapatnam,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/kakinada-to-visakhapatnam,Kakinada to Visakhapatnam,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/kakinada-to-visakhapatnam,Kakinada to Visakhapatnam,APSRTC
+APSRTC - 5870,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",18:30,04:00,09h 30m,INR 522,31 Seats available,"3.6
+20",https://www.redbus.in/bus-tickets/hyderabad-to-ongole,Hyderabad to Ongole,APSRTC
+APSRTC - 5070,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",18:45,03:15,08h 30m,INR 524,29 Seats available,"4.2
+10",https://www.redbus.in/bus-tickets/hyderabad-to-ongole,Hyderabad to Ongole,APSRTC
+APSRTC - 5859,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",19:00,04:00,09h 00m,INR 522,28 Seats available,"3.5
+15",https://www.redbus.in/bus-tickets/hyderabad-to-ongole,Hyderabad to Ongole,APSRTC
+APSRTC - 48821,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",19:00,04:15,09h 15m,INR 555,32 Seats available,"3.9
+30",https://www.redbus.in/bus-tickets/hyderabad-to-ongole,Hyderabad to Ongole,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/hyderabad-to-ongole,Hyderabad to Ongole,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/hyderabad-to-ongole,Hyderabad to Ongole,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/hyderabad-to-ongole,Hyderabad to Ongole,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/hyderabad-to-ongole,Hyderabad to Ongole,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/hyderabad-to-ongole,Hyderabad to Ongole,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/hyderabad-to-ongole,Hyderabad to Ongole,APSRTC
+APSRTC - 5380,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",19:00,03:46,08h 46m,INR 624,6 Seats available,"2.9
+9",https://www.redbus.in/bus-tickets/ongole-to-hyderabad,Ongole to Hyderabad,APSRTC
+APSRTC - 5866,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",19:45,05:46,10h 01m,INR 602,7 Seats available,"4.7
+12",https://www.redbus.in/bus-tickets/ongole-to-hyderabad,Ongole to Hyderabad,APSRTC
+APSRTC - 5913,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:30,05:36,09h 06m,INR 590,9 Seats available,"3.1
+15",https://www.redbus.in/bus-tickets/ongole-to-hyderabad,Ongole to Hyderabad,APSRTC
+APSRTC - 45901,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:00,04:20,07h 20m,INR 555,9 Seats available,"4.0
+44",https://www.redbus.in/bus-tickets/ongole-to-hyderabad,Ongole to Hyderabad,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/ongole-to-hyderabad,Ongole to Hyderabad,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/ongole-to-hyderabad,Ongole to Hyderabad,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/ongole-to-hyderabad,Ongole to Hyderabad,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/ongole-to-hyderabad,Ongole to Hyderabad,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/ongole-to-hyderabad,Ongole to Hyderabad,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/ongole-to-hyderabad,Ongole to Hyderabad,APSRTC
+APSRTC - 52858,"ULTRA DELUXE (NON-AC, 2+2 PUSH BACK)",16:00,21:10,05h 10m,INR 307,34 Seats available,"3.5
+15",https://www.redbus.in/bus-tickets/bangalore-to-ananthapur,Bangalore to Anantapur (andhra pradesh),APSRTC
+APSRTC - 52229,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",16:30,21:30,05h 00m,INR 365,37 Seats available,"4.6
+42",https://www.redbus.in/bus-tickets/bangalore-to-ananthapur,Bangalore to Anantapur (andhra pradesh),APSRTC
+APSRTC - 52219,"ULTRA DELUXE (NON-AC, 2+2 PUSH BACK)",17:00,22:00,05h 00m,INR 307,35 Seats available,"3.4
+7",https://www.redbus.in/bus-tickets/bangalore-to-ananthapur,Bangalore to Anantapur (andhra pradesh),APSRTC
+APSRTC - 52846,,17:30,22:30,05h 00m,INR 307,,3.6,https://www.redbus.in/bus-tickets/bangalore-to-ananthapur,Bangalore to Anantapur (andhra pradesh),APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/bangalore-to-ananthapur,Bangalore to Anantapur (andhra pradesh),APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/bangalore-to-ananthapur,Bangalore to Anantapur (andhra pradesh),APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/bangalore-to-ananthapur,Bangalore to Anantapur (andhra pradesh),APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/bangalore-to-ananthapur,Bangalore to Anantapur (andhra pradesh),APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/bangalore-to-ananthapur,Bangalore to Anantapur (andhra pradesh),APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/bangalore-to-ananthapur,Bangalore to Anantapur (andhra pradesh),APSRTC
+APSRTC - 9603,Express Non AC Seater 2+3,16:00,20:25,04h 25m,INR 202,42 Seats available,"3.1
+32",https://www.redbus.in/bus-tickets/bangalore-to-chittoor-andhra-pradesh,Bangalore to Chittoor (Andhra Pradesh),APSRTC
+APSRTC - 9046,Express Non AC Seater 2+3,17:00,21:25,04h 25m,INR 202,39 Seats available,"3.0
+51",https://www.redbus.in/bus-tickets/bangalore-to-chittoor-andhra-pradesh,Bangalore to Chittoor (Andhra Pradesh),APSRTC
+APSRTC - 9020,Express Non AC Seater 2+3,17:30,21:55,04h 25m,INR 202,37 Seats available,"3.5
+53",https://www.redbus.in/bus-tickets/bangalore-to-chittoor-andhra-pradesh,Bangalore to Chittoor (Andhra Pradesh),APSRTC
+APSRTC - 47211,,18:30,22:55,04h 25m,INR 202,,3.8,https://www.redbus.in/bus-tickets/bangalore-to-chittoor-andhra-pradesh,Bangalore to Chittoor (Andhra Pradesh),APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/bangalore-to-chittoor-andhra-pradesh,Bangalore to Chittoor (Andhra Pradesh),APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/bangalore-to-chittoor-andhra-pradesh,Bangalore to Chittoor (Andhra Pradesh),APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/bangalore-to-chittoor-andhra-pradesh,Bangalore to Chittoor (Andhra Pradesh),APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/bangalore-to-chittoor-andhra-pradesh,Bangalore to Chittoor (Andhra Pradesh),APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/bangalore-to-chittoor-andhra-pradesh,Bangalore to Chittoor (Andhra Pradesh),APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/bangalore-to-chittoor-andhra-pradesh,Bangalore to Chittoor (Andhra Pradesh),APSRTC
+APSRTC - 9011,Express Non AC Seater 2+3,16:30,19:40,03h 10m,INR 183,14 Seats available,"4.4
+47",https://www.redbus.in/bus-tickets/chittoor-andhra-pradesh-to-bangalore,Chittoor (Andhra Pradesh) to Bangalore,APSRTC
+APSRTC - 9049,Express Non AC Seater 2+3,17:15,21:40,04h 25m,INR 239,16 Seats available,"4.4
+75",https://www.redbus.in/bus-tickets/chittoor-andhra-pradesh-to-bangalore,Chittoor (Andhra Pradesh) to Bangalore,APSRTC
+APSRTC - 9888,Express Non AC Seater 2+3,19:00,23:20,04h 20m,INR 202,4 Seats available,"3.2
+28",https://www.redbus.in/bus-tickets/chittoor-andhra-pradesh-to-bangalore,Chittoor (Andhra Pradesh) to Bangalore,APSRTC
+APSRTC - 9003,Express Non AC Seater 2+3,20:00,00:25,04h 25m,INR 218,39 Seats available,"4.2
+32",https://www.redbus.in/bus-tickets/chittoor-andhra-pradesh-to-bangalore,Chittoor (Andhra Pradesh) to Bangalore,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/chittoor-andhra-pradesh-to-bangalore,Chittoor (Andhra Pradesh) to Bangalore,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/chittoor-andhra-pradesh-to-bangalore,Chittoor (Andhra Pradesh) to Bangalore,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/chittoor-andhra-pradesh-to-bangalore,Chittoor (Andhra Pradesh) to Bangalore,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/chittoor-andhra-pradesh-to-bangalore,Chittoor (Andhra Pradesh) to Bangalore,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/chittoor-andhra-pradesh-to-bangalore,Chittoor (Andhra Pradesh) to Bangalore,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/chittoor-andhra-pradesh-to-bangalore,Chittoor (Andhra Pradesh) to Bangalore,APSRTC
+APSRTC - 4612,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",19:15,04:00,08h 45m,INR 483,30 Seats available,"4.0
+43",https://www.redbus.in/bus-tickets/hyderabad-to-guntur,Hyderabad to Guntur (Andhra Pradesh),APSRTC
+APSRTC - 4249,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",19:45,04:20,08h 35m,INR 451,32 Seats available,"3.4
+55",https://www.redbus.in/bus-tickets/hyderabad-to-guntur,Hyderabad to Guntur (Andhra Pradesh),APSRTC
+APSRTC - 4179,AMARAVATHI (VOLVO / SCANIA A.C Multi Axle),20:30,04:29,07h 59m,INR 767,43 Seats available,"4.5
+68",https://www.redbus.in/bus-tickets/hyderabad-to-guntur,Hyderabad to Guntur (Andhra Pradesh),APSRTC
+APSRTC - 4189,INDRA(A.C. Seater),20:40,04:45,08h 05m,INR 585,37 Seats available,3.9,https://www.redbus.in/bus-tickets/hyderabad-to-guntur,Hyderabad to Guntur (Andhra Pradesh),APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/hyderabad-to-guntur,Hyderabad to Guntur (Andhra Pradesh),APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/hyderabad-to-guntur,Hyderabad to Guntur (Andhra Pradesh),APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/hyderabad-to-guntur,Hyderabad to Guntur (Andhra Pradesh),APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/hyderabad-to-guntur,Hyderabad to Guntur (Andhra Pradesh),APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/hyderabad-to-guntur,Hyderabad to Guntur (Andhra Pradesh),APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/hyderabad-to-guntur,Hyderabad to Guntur (Andhra Pradesh),APSRTC
+APSRTC - 3009,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",15:45,00:45,09h 00m,INR 605,32 Seats available,"3.6
+4",https://www.redbus.in/bus-tickets/vijayawada-to-visakhapatnam,Vijayawada to Visakhapatnam,APSRTC
+APSRTC - 3492,AMARAVATHI (VOLVO / SCANIA A.C Multi Axle),16:00,23:00,07h 00m,INR 929,43 Seats available,"4.3
+52",https://www.redbus.in/bus-tickets/vijayawada-to-visakhapatnam,Vijayawada to Visakhapatnam,APSRTC
+APSRTC - 3466,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",16:30,01:05,08h 35m,INR 605,32 Seats available,"3.4
+4",https://www.redbus.in/bus-tickets/vijayawada-to-visakhapatnam,Vijayawada to Visakhapatnam,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/vijayawada-to-visakhapatnam,Vijayawada to Visakhapatnam,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/vijayawada-to-visakhapatnam,Vijayawada to Visakhapatnam,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/vijayawada-to-visakhapatnam,Vijayawada to Visakhapatnam,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/vijayawada-to-visakhapatnam,Vijayawada to Visakhapatnam,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/vijayawada-to-visakhapatnam,Vijayawada to Visakhapatnam,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/vijayawada-to-visakhapatnam,Vijayawada to Visakhapatnam,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/vijayawada-to-visakhapatnam,Vijayawada to Visakhapatnam,APSRTC
+APSRTC - 5815,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",18:50,02:30,07h 40m,INR 435,15 Seats available,"3.4
+29",https://www.redbus.in/bus-tickets/hyderabad-to-narsaraopet,Hyderabad to Narasaraopet,APSRTC
+APSRTC - 4529,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:45,04:00,07h 15m,INR 394,28 Seats available,"3.9
+89",https://www.redbus.in/bus-tickets/hyderabad-to-narsaraopet,Hyderabad to Narasaraopet,APSRTC
+APSRTC - 4538,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:45,04:00,07h 15m,INR 394,29 Seats available,"3.8
+67",https://www.redbus.in/bus-tickets/hyderabad-to-narsaraopet,Hyderabad to Narasaraopet,APSRTC
+APSRTC - 5831,INDRA(A.C. Seater),21:00,03:50,06h 50m,INR 487,34 Seats available,4.0,https://www.redbus.in/bus-tickets/hyderabad-to-narsaraopet,Hyderabad to Narasaraopet,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/hyderabad-to-narsaraopet,Hyderabad to Narasaraopet,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/hyderabad-to-narsaraopet,Hyderabad to Narasaraopet,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/hyderabad-to-narsaraopet,Hyderabad to Narasaraopet,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/hyderabad-to-narsaraopet,Hyderabad to Narasaraopet,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/hyderabad-to-narsaraopet,Hyderabad to Narasaraopet,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/hyderabad-to-narsaraopet,Hyderabad to Narasaraopet,APSRTC
+APSRTC - 50144,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",16:30,23:00,06h 30m,INR 472,37 Seats available,"2.5
+20",https://www.redbus.in/bus-tickets/kadapa-to-bangalore,Kadapa to Bangalore,APSRTC
+APSRTC - 6018,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",17:15,23:10,05h 55m,INR 472,31 Seats available,"3.7
+13",https://www.redbus.in/bus-tickets/kadapa-to-bangalore,Kadapa to Bangalore,APSRTC
+APSRTC - 6010,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:00,04:00,08h 00m,INR 472,31 Seats available,"3.6
+26",https://www.redbus.in/bus-tickets/kadapa-to-bangalore,Kadapa to Bangalore,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/kadapa-to-bangalore,Kadapa to Bangalore,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/kadapa-to-bangalore,Kadapa to Bangalore,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/kadapa-to-bangalore,Kadapa to Bangalore,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/kadapa-to-bangalore,Kadapa to Bangalore,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/kadapa-to-bangalore,Kadapa to Bangalore,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/kadapa-to-bangalore,Kadapa to Bangalore,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/kadapa-to-bangalore,Kadapa to Bangalore,APSRTC
+APSRTC - 4482,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:00,02:55,04h 55m,INR 427,5 Seats available,"4.3
+110",https://www.redbus.in/bus-tickets/narsaraopet-to-hyderabad,Narasaraopet to Hyderabad,APSRTC
+APSRTC - 4537,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:05,03:10,05h 05m,INR 427,5 Seats available,"4.4
+79",https://www.redbus.in/bus-tickets/narsaraopet-to-hyderabad,Narasaraopet to Hyderabad,APSRTC
+APSRTC - 4553,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:15,03:25,05h 10m,INR 427,1 Seat available,"4.2
+64",https://www.redbus.in/bus-tickets/narsaraopet-to-hyderabad,Narasaraopet to Hyderabad,APSRTC
+APSRTC - 5816,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:40,03:25,04h 45m,INR 435,6 Seats available,"4.0
+43",https://www.redbus.in/bus-tickets/narsaraopet-to-hyderabad,Narasaraopet to Hyderabad,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/narsaraopet-to-hyderabad,Narasaraopet to Hyderabad,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/narsaraopet-to-hyderabad,Narasaraopet to Hyderabad,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/narsaraopet-to-hyderabad,Narasaraopet to Hyderabad,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/narsaraopet-to-hyderabad,Narasaraopet to Hyderabad,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/narsaraopet-to-hyderabad,Narasaraopet to Hyderabad,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/narsaraopet-to-hyderabad,Narasaraopet to Hyderabad,APSRTC
+APSRTC - 23532,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",16:00,20:35,04h 35m,INR 281,30 Seats available,"4.1
+22",https://www.redbus.in/bus-tickets/visakhapatnam-to-kakinada,Visakhapatnam to Kakinada,APSRTC
+APSRTC - 2201,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",16:30,21:00,04h 30m,INR 281,34 Seats available,"1.7
+7",https://www.redbus.in/bus-tickets/visakhapatnam-to-kakinada,Visakhapatnam to Kakinada,APSRTC
+APSRTC - 3353,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",16:40,20:20,03h 40m,INR 281,32 Seats available,"3.1
+23",https://www.redbus.in/bus-tickets/visakhapatnam-to-kakinada,Visakhapatnam to Kakinada,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/visakhapatnam-to-kakinada,Visakhapatnam to Kakinada,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/visakhapatnam-to-kakinada,Visakhapatnam to Kakinada,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/visakhapatnam-to-kakinada,Visakhapatnam to Kakinada,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/visakhapatnam-to-kakinada,Visakhapatnam to Kakinada,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/visakhapatnam-to-kakinada,Visakhapatnam to Kakinada,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/visakhapatnam-to-kakinada,Visakhapatnam to Kakinada,APSRTC
+APSRTC - 52530,Express Non AC Seater 2+3,16:15,20:45,04h 30m,INR 224,43 Seats available,"3.0
+15",https://www.redbus.in/bus-tickets/bangalore-to-kadiri,Bangalore to Kadiri,APSRTC
+APSRTC - 52532,Express Non AC Seater 2+3,17:30,22:00,04h 30m,INR 224,45 Seats available,"2.3
+19",https://www.redbus.in/bus-tickets/bangalore-to-kadiri,Bangalore to Kadiri,APSRTC
+APSRTC - 52533,Express Non AC Seater 2+3,18:45,23:45,05h 00m,INR 224,43 Seats available,"3.0
+30",https://www.redbus.in/bus-tickets/bangalore-to-kadiri,Bangalore to Kadiri,APSRTC
+APSRTC - 6160,,19:15,23:59,04h 44m,INR 330,,2.8,https://www.redbus.in/bus-tickets/bangalore-to-kadiri,Bangalore to Kadiri,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/bangalore-to-kadiri,Bangalore to Kadiri,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/bangalore-to-kadiri,Bangalore to Kadiri,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/bangalore-to-kadiri,Bangalore to Kadiri,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/bangalore-to-kadiri,Bangalore to Kadiri,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/bangalore-to-kadiri,Bangalore to Kadiri,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/bangalore-to-kadiri,Bangalore to Kadiri,APSRTC
+APSRTC - 5769,Express Non AC Seater 2+3,17:30,20:45,03h 15m,INR 157,29 Seats available,"3.3
+111",https://www.redbus.in/bus-tickets/bangalore-to-madanapalli,Bangalore to Madanapalli,APSRTC
+APSRTC - 7587,Express Non AC Seater 2+3,18:30,21:45,03h 15m,INR 157,40 Seats available,3.6,https://www.redbus.in/bus-tickets/bangalore-to-madanapalli,Bangalore to Madanapalli,APSRTC
+APSRTC - 47135,Express Non AC Seater 2+3,20:15,23:15,03h 00m,INR 157,38 Seats available,"2.3
+19",https://www.redbus.in/bus-tickets/bangalore-to-madanapalli,Bangalore to Madanapalli,APSRTC
+Shiva Parvathi Tours And Travels,Non A/C Seater / Sleeper (2+1),19:00,01:00,06h 00m,315,35 Seats available,New,https://www.redbus.in/bus-tickets/bangalore-to-madanapalli,Bangalore to Madanapalli,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/bangalore-to-madanapalli,Bangalore to Madanapalli,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/bangalore-to-madanapalli,Bangalore to Madanapalli,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/bangalore-to-madanapalli,Bangalore to Madanapalli,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/bangalore-to-madanapalli,Bangalore to Madanapalli,APSRTC
+APSRTC - 5675,Express Non AC Seater 2+3,16:00,19:15,03h 15m,INR 173,4 Seats available,"3.3
+19",https://www.redbus.in/bus-tickets/madanapalli-to-bangalore,Madanapalli to Bangalore,APSRTC
+APSRTC - 5759,Express Non AC Seater 2+3,17:45,21:00,03h 15m,INR 173,11 Seats available,"3.5
+109",https://www.redbus.in/bus-tickets/madanapalli-to-bangalore,Madanapalli to Bangalore,APSRTC
+APSRTC - 7590,Express Non AC Seater 2+3,19:00,22:15,03h 15m,INR 173,41 Seats available,"3.2
+8",https://www.redbus.in/bus-tickets/madanapalli-to-bangalore,Madanapalli to Bangalore,APSRTC
+Shiva Parvathi Tours And Travels,Non A/C Seater / Sleeper (2+1),01:31,04:30,02h 59m,INR 550,4 Seats available,New,https://www.redbus.in/bus-tickets/madanapalli-to-bangalore,Madanapalli to Bangalore,APSRTC
+APSRTC - 6745,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",17:00,22:00,05h 00m,INR 365,32 Seats available,"2.7
+40",https://www.redbus.in/bus-tickets/ananthapur-to-bangalore,Anantapur (andhra pradesh) to Bangalore,APSRTC
+APSRTC - 52921,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",18:00,22:50,04h 50m,INR 365,34 Seats available,"2.2
+8",https://www.redbus.in/bus-tickets/ananthapur-to-bangalore,Anantapur (andhra pradesh) to Bangalore,APSRTC
+APSRTC - 52937,"ULTRA DELUXE (NON-AC, 2+2 PUSH BACK)",21:45,02:45,05h 00m,INR 307,22 Seats available,"4.2
+47",https://www.redbus.in/bus-tickets/ananthapur-to-bangalore,Anantapur (andhra pradesh) to Bangalore,APSRTC
+APSRTC - 6985,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:30,03:30,05h 00m,INR 365,16 Seats available,"4.0
+51",https://www.redbus.in/bus-tickets/ananthapur-to-bangalore,Anantapur (andhra pradesh) to Bangalore,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/ananthapur-to-bangalore,Anantapur (andhra pradesh) to Bangalore,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/ananthapur-to-bangalore,Anantapur (andhra pradesh) to Bangalore,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/ananthapur-to-bangalore,Anantapur (andhra pradesh) to Bangalore,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/ananthapur-to-bangalore,Anantapur (andhra pradesh) to Bangalore,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/ananthapur-to-bangalore,Anantapur (andhra pradesh) to Bangalore,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/ananthapur-to-bangalore,Anantapur (andhra pradesh) to Bangalore,APSRTC
+APSRTC - 51051,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",16:45,21:30,04h 45m,INR 344,32 Seats available,"3.0
+13",https://www.redbus.in/bus-tickets/hyderabad-to-kurnool,Hyderabad to Kurnool,APSRTC
+APSRTC - 9295,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",17:15,21:30,04h 15m,INR 344,33 Seats available,"2.9
+10",https://www.redbus.in/bus-tickets/hyderabad-to-kurnool,Hyderabad to Kurnool,APSRTC
+APSRTC - 5664,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",17:45,22:15,04h 30m,INR 344,33 Seats available,"4.0
+8",https://www.redbus.in/bus-tickets/hyderabad-to-kurnool,Hyderabad to Kurnool,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/hyderabad-to-kurnool,Hyderabad to Kurnool,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/hyderabad-to-kurnool,Hyderabad to Kurnool,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/hyderabad-to-kurnool,Hyderabad to Kurnool,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/hyderabad-to-kurnool,Hyderabad to Kurnool,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/hyderabad-to-kurnool,Hyderabad to Kurnool,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/hyderabad-to-kurnool,Hyderabad to Kurnool,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/hyderabad-to-kurnool,Hyderabad to Kurnool,APSRTC
+APSRTC - 5985,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",19:00,03:15,08h 15m,INR 467,30 Seats available,"2.9
+19",https://www.redbus.in/bus-tickets/hyderabad-to-vinukonda,Hyderabad to Vinukonda,APSRTC
+APSRTC - 5968,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",19:45,03:30,07h 45m,INR 467,31 Seats available,"3.7
+53",https://www.redbus.in/bus-tickets/hyderabad-to-vinukonda,Hyderabad to Vinukonda,APSRTC
+APSRTC - 4585,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:00,05:00,09h 00m,INR 467,31 Seats available,"4.1
+71",https://www.redbus.in/bus-tickets/hyderabad-to-vinukonda,Hyderabad to Vinukonda,APSRTC
+APSRTC - 5939,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:10,03:50,07h 40m,INR 464,31 Seats available,"4.5
+23",https://www.redbus.in/bus-tickets/hyderabad-to-vinukonda,Hyderabad to Vinukonda,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/hyderabad-to-vinukonda,Hyderabad to Vinukonda,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/hyderabad-to-vinukonda,Hyderabad to Vinukonda,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/hyderabad-to-vinukonda,Hyderabad to Vinukonda,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/hyderabad-to-vinukonda,Hyderabad to Vinukonda,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/hyderabad-to-vinukonda,Hyderabad to Vinukonda,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/hyderabad-to-vinukonda,Hyderabad to Vinukonda,APSRTC
+APSRTC - 2811,"ULTRA DELUXE (NON-AC, 2+2 PUSH BACK)",15:45,21:00,05h 15m,INR 328,35 Seats available,"4.4
+6",https://www.redbus.in/bus-tickets/rajahmundry-to-visakhapatnam,Rajahmundry to Visakhapatnam,APSRTC
+APSRTC - 4468,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",16:30,21:00,04h 30m,INR 344,33 Seats available,"4.8
+6",https://www.redbus.in/bus-tickets/rajahmundry-to-visakhapatnam,Rajahmundry to Visakhapatnam,APSRTC
+APSRTC - 27136,METRO LUXURY A/C,16:30,20:45,04h 15m,INR 467,25 Seats available,"3.2
+97",https://www.redbus.in/bus-tickets/rajahmundry-to-visakhapatnam,Rajahmundry to Visakhapatnam,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/rajahmundry-to-visakhapatnam,Rajahmundry to Visakhapatnam,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/rajahmundry-to-visakhapatnam,Rajahmundry to Visakhapatnam,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/rajahmundry-to-visakhapatnam,Rajahmundry to Visakhapatnam,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/rajahmundry-to-visakhapatnam,Rajahmundry to Visakhapatnam,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/rajahmundry-to-visakhapatnam,Rajahmundry to Visakhapatnam,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/rajahmundry-to-visakhapatnam,Rajahmundry to Visakhapatnam,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/rajahmundry-to-visakhapatnam,Rajahmundry to Visakhapatnam,APSRTC
+APSRTC - 2559,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",18:00,03:30,09h 30m,INR 569,25 Seats available,"3.2
+19",https://www.redbus.in/bus-tickets/hyderabad-to-eluru,Hyderabad to Eluru,APSRTC
+APSRTC - 2563,INDRA(A.C. Seater),19:30,03:15,07h 45m,INR 649,35 Seats available,"3.7
+30",https://www.redbus.in/bus-tickets/hyderabad-to-eluru,Hyderabad to Eluru,APSRTC
+APSRTC - 2678,NIGHT RIDER (SEATER CUM SLEEPER),20:00,04:20,08h 20m,INR 776,32 Seats available,"4.0
+49",https://www.redbus.in/bus-tickets/hyderabad-to-eluru,Hyderabad to Eluru,APSRTC
+APSRTC - 4797,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:15,07:40,11h 25m,INR 668,33 Seats available,4.1,https://www.redbus.in/bus-tickets/hyderabad-to-eluru,Hyderabad to Eluru,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/hyderabad-to-eluru,Hyderabad to Eluru,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/hyderabad-to-eluru,Hyderabad to Eluru,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/hyderabad-to-eluru,Hyderabad to Eluru,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/hyderabad-to-eluru,Hyderabad to Eluru,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/hyderabad-to-eluru,Hyderabad to Eluru,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/hyderabad-to-eluru,Hyderabad to Eluru,APSRTC
+APSRTC - 4246,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",16:00,22:15,06h 15m,INR 483,17 Seats available,"4.4
+15",https://www.redbus.in/bus-tickets/guntur-to-hyderabad,Guntur (Andhra Pradesh) to Hyderabad,APSRTC
+APSRTC - 4256,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:30,02:45,06h 15m,INR 451,33 Seats available,"4.0
+20",https://www.redbus.in/bus-tickets/guntur-to-hyderabad,Guntur (Andhra Pradesh) to Hyderabad,APSRTC
+APSRTC - 4737,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:00,02:40,05h 40m,INR 483,32 Seats available,"2.9
+23",https://www.redbus.in/bus-tickets/guntur-to-hyderabad,Guntur (Andhra Pradesh) to Hyderabad,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/guntur-to-hyderabad,Guntur (Andhra Pradesh) to Hyderabad,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/guntur-to-hyderabad,Guntur (Andhra Pradesh) to Hyderabad,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/guntur-to-hyderabad,Guntur (Andhra Pradesh) to Hyderabad,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/guntur-to-hyderabad,Guntur (Andhra Pradesh) to Hyderabad,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/guntur-to-hyderabad,Guntur (Andhra Pradesh) to Hyderabad,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/guntur-to-hyderabad,Guntur (Andhra Pradesh) to Hyderabad,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/guntur-to-hyderabad,Guntur (Andhra Pradesh) to Hyderabad,APSRTC
+APSRTC - 36401,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",16:00,20:15,04h 15m,INR 302,32 Seats available,"3.8
+26",https://www.redbus.in/bus-tickets/hyderabad-to-macherla,Hyderabad to Macherla (andhra pradesh),APSRTC
+APSRTC - 36431,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",19:15,23:30,04h 15m,INR 302,33 Seats available,"2.8
+13",https://www.redbus.in/bus-tickets/hyderabad-to-macherla,Hyderabad to Macherla (andhra pradesh),APSRTC
+APSRTC - 4409,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:00,00:15,04h 15m,INR 302,33 Seats available,"3.6
+16",https://www.redbus.in/bus-tickets/hyderabad-to-macherla,Hyderabad to Macherla (andhra pradesh),APSRTC
+APSRTC - 5878,INDRA(A.C. Seater),21:15,02:25,05h 10m,INR 365,37 Seats available,"3.8
+23",https://www.redbus.in/bus-tickets/hyderabad-to-macherla,Hyderabad to Macherla (andhra pradesh),APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/hyderabad-to-macherla,Hyderabad to Macherla (andhra pradesh),APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/hyderabad-to-macherla,Hyderabad to Macherla (andhra pradesh),APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/hyderabad-to-macherla,Hyderabad to Macherla (andhra pradesh),APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/hyderabad-to-macherla,Hyderabad to Macherla (andhra pradesh),APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/hyderabad-to-macherla,Hyderabad to Macherla (andhra pradesh),APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/hyderabad-to-macherla,Hyderabad to Macherla (andhra pradesh),APSRTC
+APSRTC - 6005,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",16:30,22:15,05h 45m,INR 386,30 Seats available,"3.9
+32",https://www.redbus.in/bus-tickets/bangalore-to-rayachoti,Bangalore to Rayachoti,APSRTC
+APSRTC - 50079,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:15,02:00,05h 45m,INR 386,34 Seats available,"3.9
+24",https://www.redbus.in/bus-tickets/bangalore-to-rayachoti,Bangalore to Rayachoti,APSRTC
+APSRTC - 6017,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:00,02:45,05h 45m,INR 386,34 Seats available,"4.3
+18",https://www.redbus.in/bus-tickets/bangalore-to-rayachoti,Bangalore to Rayachoti,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/bangalore-to-rayachoti,Bangalore to Rayachoti,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/bangalore-to-rayachoti,Bangalore to Rayachoti,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/bangalore-to-rayachoti,Bangalore to Rayachoti,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/bangalore-to-rayachoti,Bangalore to Rayachoti,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/bangalore-to-rayachoti,Bangalore to Rayachoti,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/bangalore-to-rayachoti,Bangalore to Rayachoti,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/bangalore-to-rayachoti,Bangalore to Rayachoti,APSRTC
+TGSRTC - 2085,Super Luxury (Non AC Seater 2+2 Push Back),14:40,21:45,07h 05m,INR 380,26 Seats available,"2.9
+16",https://www.redbus.in/bus-tickets/hyderabad-to-nandyala,Hyderabad to Nandyal,APSRTC
+TGSRTC - 1962,Super Luxury (Non AC Seater 2+2 Push Back),14:45,20:45,06h 00m,INR 380,4 Seats available,"3.1
+20",https://www.redbus.in/bus-tickets/hyderabad-to-nandyala,Hyderabad to Nandyal,APSRTC
+TGSRTC - 1711,Super Luxury (Non AC Seater 2+2 Push Back),15:00,21:50,06h 50m,INR 380,20 Seats available,"4.0
+12",https://www.redbus.in/bus-tickets/hyderabad-to-nandyala,Hyderabad to Nandyal,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/hyderabad-to-nandyala,Hyderabad to Nandyal,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/hyderabad-to-nandyala,Hyderabad to Nandyal,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/hyderabad-to-nandyala,Hyderabad to Nandyal,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/hyderabad-to-nandyala,Hyderabad to Nandyal,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/hyderabad-to-nandyala,Hyderabad to Nandyal,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/hyderabad-to-nandyala,Hyderabad to Nandyal,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/hyderabad-to-nandyala,Hyderabad to Nandyal,APSRTC
+APSRTC - 4796,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",19:30,06:40,11h 10m,INR 668,6 Seats available,"3.8
+5",https://www.redbus.in/bus-tickets/eluru-to-hyderabad,Eluru to Hyderabad,APSRTC
+APSRTC - 4798,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",19:45,06:10,10h 25m,INR 631,4 Seats available,"4.1
+14",https://www.redbus.in/bus-tickets/eluru-to-hyderabad,Eluru to Hyderabad,APSRTC
+APSRTC - 4802,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:15,04:50,08h 35m,INR 623,12 Seats available,"3.1
+14",https://www.redbus.in/bus-tickets/eluru-to-hyderabad,Eluru to Hyderabad,APSRTC
+APSRTC - 4800,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:30,05:30,09h 00m,INR 618,13 Seats available,"3.3
+11",https://www.redbus.in/bus-tickets/eluru-to-hyderabad,Eluru to Hyderabad,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/eluru-to-hyderabad,Eluru to Hyderabad,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/eluru-to-hyderabad,Eluru to Hyderabad,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/eluru-to-hyderabad,Eluru to Hyderabad,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/eluru-to-hyderabad,Eluru to Hyderabad,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/eluru-to-hyderabad,Eluru to Hyderabad,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/eluru-to-hyderabad,Eluru to Hyderabad,APSRTC
+APSRTC - 5518,SAPTAGIRI EXPRESS,17:00,23:00,06h 00m,INR 333,42 Seats available,"3.8
+30",https://www.redbus.in/bus-tickets/tirupathi-to-bangalore,Tirupati to Bangalore,APSRTC
+APSRTC - 3758,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",17:00,22:00,05h 00m,INR 426,33 Seats available,"3.1
+21",https://www.redbus.in/bus-tickets/tirupathi-to-bangalore,Tirupati to Bangalore,APSRTC
+APSRTC - 9003,Express Non AC Seater 2+3,18:00,00:25,06h 25m,INR 312,42 Seats available,"3.6
+4",https://www.redbus.in/bus-tickets/tirupathi-to-bangalore,Tirupati to Bangalore,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/tirupathi-to-bangalore,Tirupati to Bangalore,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/tirupathi-to-bangalore,Tirupati to Bangalore,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/tirupathi-to-bangalore,Tirupati to Bangalore,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/tirupathi-to-bangalore,Tirupati to Bangalore,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/tirupathi-to-bangalore,Tirupati to Bangalore,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/tirupathi-to-bangalore,Tirupati to Bangalore,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/tirupathi-to-bangalore,Tirupati to Bangalore,APSRTC
+APSRTC - 5984,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:15,02:45,05h 30m,INR 467,12 Seats available,"3.9
+58",https://www.redbus.in/bus-tickets/vinukonda-to-hyderabad,Vinukonda to Hyderabad,APSRTC
+APSRTC - 4590,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:30,02:45,05h 15m,INR 467,16 Seats available,"3.5
+23",https://www.redbus.in/bus-tickets/vinukonda-to-hyderabad,Vinukonda to Hyderabad,APSRTC
+APSRTC - 4578,INDRA(A.C. Seater),22:00,02:44,04h 44m,INR 565,7 Seats available,"4.2
+78",https://www.redbus.in/bus-tickets/vinukonda-to-hyderabad,Vinukonda to Hyderabad,APSRTC
+APSRTC - 4584,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:15,03:19,05h 04m,INR 467,7 Seats available,"4.5
+76",https://www.redbus.in/bus-tickets/vinukonda-to-hyderabad,Vinukonda to Hyderabad,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/vinukonda-to-hyderabad,Vinukonda to Hyderabad,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/vinukonda-to-hyderabad,Vinukonda to Hyderabad,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/vinukonda-to-hyderabad,Vinukonda to Hyderabad,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/vinukonda-to-hyderabad,Vinukonda to Hyderabad,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/vinukonda-to-hyderabad,Vinukonda to Hyderabad,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/vinukonda-to-hyderabad,Vinukonda to Hyderabad,APSRTC
+APSRTC - 5732,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",16:30,23:30,07h 00m,INR 584,29 Seats available,"2.9
+7",https://www.redbus.in/bus-tickets/hyderabad-to-ananthapur,Hyderabad to Anantapur (andhra pradesh),APSRTC
+APSRTC - 5694,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",17:00,02:15,09h 15m,INR 616,27 Seats available,"1.5
+5",https://www.redbus.in/bus-tickets/hyderabad-to-ananthapur,Hyderabad to Anantapur (andhra pradesh),APSRTC
+APSRTC - 56912,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",17:15,01:45,08h 30m,INR 584,34 Seats available,"4.3
+7",https://www.redbus.in/bus-tickets/hyderabad-to-ananthapur,Hyderabad to Anantapur (andhra pradesh),APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/hyderabad-to-ananthapur,Hyderabad to Anantapur (andhra pradesh),APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/hyderabad-to-ananthapur,Hyderabad to Anantapur (andhra pradesh),APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/hyderabad-to-ananthapur,Hyderabad to Anantapur (andhra pradesh),APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/hyderabad-to-ananthapur,Hyderabad to Anantapur (andhra pradesh),APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/hyderabad-to-ananthapur,Hyderabad to Anantapur (andhra pradesh),APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/hyderabad-to-ananthapur,Hyderabad to Anantapur (andhra pradesh),APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/hyderabad-to-ananthapur,Hyderabad to Anantapur (andhra pradesh),APSRTC
+APSRTC - 5808,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",18:30,03:15,08h 45m,INR 483,33 Seats available,"2.6
+15",https://www.redbus.in/bus-tickets/hyderabad-to-markapuram,Hyderabad to Markapuram,APSRTC
+APSRTC - 5960,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",19:10,04:30,09h 20m,INR 483,25 Seats available,"4.8
+6",https://www.redbus.in/bus-tickets/hyderabad-to-markapuram,Hyderabad to Markapuram,APSRTC
+APSRTC - 5827,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",19:15,02:20,07h 05m,INR 503,33 Seats available,"3.0
+8",https://www.redbus.in/bus-tickets/hyderabad-to-markapuram,Hyderabad to Markapuram,APSRTC
+APSRTC - 48590,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",19:40,05:30,09h 50m,INR 572,27 Seats available,"2.6
+6",https://www.redbus.in/bus-tickets/hyderabad-to-markapuram,Hyderabad to Markapuram,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/hyderabad-to-markapuram,Hyderabad to Markapuram,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/hyderabad-to-markapuram,Hyderabad to Markapuram,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/hyderabad-to-markapuram,Hyderabad to Markapuram,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/hyderabad-to-markapuram,Hyderabad to Markapuram,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/hyderabad-to-markapuram,Hyderabad to Markapuram,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/hyderabad-to-markapuram,Hyderabad to Markapuram,APSRTC
+APSRTC - 3879,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",16:15,01:45,09h 30m,INR 644,31 Seats available,"3.7
+5",https://www.redbus.in/bus-tickets/bangalore-to-nellore,Bangalore to Nellore,APSRTC
+APSRTC - 4157,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",16:45,01:45,09h 00m,INR 644,31 Seats available,4.0,https://www.redbus.in/bus-tickets/bangalore-to-nellore,Bangalore to Nellore,APSRTC
+APSRTC - 4310,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",17:15,02:00,08h 45m,INR 644,31 Seats available,4.0,https://www.redbus.in/bus-tickets/bangalore-to-nellore,Bangalore to Nellore,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/bangalore-to-nellore,Bangalore to Nellore,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/bangalore-to-nellore,Bangalore to Nellore,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/bangalore-to-nellore,Bangalore to Nellore,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/bangalore-to-nellore,Bangalore to Nellore,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/bangalore-to-nellore,Bangalore to Nellore,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/bangalore-to-nellore,Bangalore to Nellore,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/bangalore-to-nellore,Bangalore to Nellore,APSRTC
+APSRTC - 4430,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",17:30,21:24,03h 54m,INR 313,17 Seats available,"2.8
+73",https://www.redbus.in/bus-tickets/macherla-to-hyderabad,Macherla (andhra pradesh) to Hyderabad,APSRTC
+APSRTC - 36005,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",18:30,22:04,03h 34m,INR 302,11 Seats available,"4.4
+50",https://www.redbus.in/bus-tickets/macherla-to-hyderabad,Macherla (andhra pradesh) to Hyderabad,APSRTC
+APSRTC - 4406,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:00,23:34,03h 34m,INR 302,33 Seats available,"3.7
+32",https://www.redbus.in/bus-tickets/macherla-to-hyderabad,Macherla (andhra pradesh) to Hyderabad,APSRTC
+APSRTC - 4418,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:00,01:34,03h 34m,INR 302,22 Seats available,"4.2
+47",https://www.redbus.in/bus-tickets/macherla-to-hyderabad,Macherla (andhra pradesh) to Hyderabad,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/macherla-to-hyderabad,Macherla (andhra pradesh) to Hyderabad,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/macherla-to-hyderabad,Macherla (andhra pradesh) to Hyderabad,APSRTC
+APSRTC - 52548,Express Non AC Seater 2+3,15:45,20:45,05h 00m,INR 246,20 Seats available,"2.1
+13",https://www.redbus.in/bus-tickets/kadiri-to-bangalore,Kadiri to Bangalore,APSRTC
+APSRTC - 52516,Express Non AC Seater 2+3,17:00,20:50,03h 50m,INR 203,23 Seats available,"3.2
+67",https://www.redbus.in/bus-tickets/kadiri-to-bangalore,Kadiri to Bangalore,APSRTC
+APSRTC - 6824,Express Non AC Seater 2+3,17:15,21:45,04h 30m,INR 224,35 Seats available,"2.4
+20",https://www.redbus.in/bus-tickets/kadiri-to-bangalore,Kadiri to Bangalore,APSRTC
+APSRTC - 52511,Express Non AC Seater 2+3,18:00,23:00,05h 00m,INR 246,28 Seats available,"4.5
+5",https://www.redbus.in/bus-tickets/kadiri-to-bangalore,Kadiri to Bangalore,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/kadiri-to-bangalore,Kadiri to Bangalore,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/kadiri-to-bangalore,Kadiri to Bangalore,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/kadiri-to-bangalore,Kadiri to Bangalore,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/kadiri-to-bangalore,Kadiri to Bangalore,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/kadiri-to-bangalore,Kadiri to Bangalore,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/kadiri-to-bangalore,Kadiri to Bangalore,APSRTC
+APSRTC - 6424,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:00,02:30,05h 30m,INR 470,34 Seats available,"2.9
+19",https://www.redbus.in/bus-tickets/nandyala-to-hyderabad,Nandyal to Hyderabad,APSRTC
+APSRTC - 9981,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:15,04:00,06h 45m,INR 469,33 Seats available,"3.5
+20",https://www.redbus.in/bus-tickets/nandyala-to-hyderabad,Nandyal to Hyderabad,APSRTC
+APSRTC - 6440,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:30,03:10,05h 40m,INR 470,34 Seats available,"3.5
+23",https://www.redbus.in/bus-tickets/nandyala-to-hyderabad,Nandyal to Hyderabad,APSRTC
+APSRTC - 6411,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:45,03:15,05h 30m,INR 501,6 Seats available,"4.2
+46",https://www.redbus.in/bus-tickets/nandyala-to-hyderabad,Nandyal to Hyderabad,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/nandyala-to-hyderabad,Nandyal to Hyderabad,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/nandyala-to-hyderabad,Nandyal to Hyderabad,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/nandyala-to-hyderabad,Nandyal to Hyderabad,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/nandyala-to-hyderabad,Nandyal to Hyderabad,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/nandyala-to-hyderabad,Nandyal to Hyderabad,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/nandyala-to-hyderabad,Nandyal to Hyderabad,APSRTC
+APSRTC - 47046,AMARAVATHI (VOLVO / SCANIA A.C Multi Axle),16:00,19:00,03h 00m,INR 322,45 Seats available,"4.6
+10",https://www.redbus.in/bus-tickets/chennai-to-tirupathi,Chennai to Tirupati,APSRTC
+APSRTC - 5555,SAPTAGIRI EXPRESS,16:15,19:30,03h 15m,INR 149,46 Seats available,"4.6
+5",https://www.redbus.in/bus-tickets/chennai-to-tirupathi,Chennai to Tirupati,APSRTC
+APSRTC - 5557,SAPTAGIRI EXPRESS,16:45,20:00,03h 15m,INR 149,46 Seats available,"4.5
+6",https://www.redbus.in/bus-tickets/chennai-to-tirupathi,Chennai to Tirupati,APSRTC
+APSRTC - 5439,,17:00,20:00,03h 00m,INR 253,,,https://www.redbus.in/bus-tickets/chennai-to-tirupathi,Chennai to Tirupati,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/chennai-to-tirupathi,Chennai to Tirupati,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/chennai-to-tirupathi,Chennai to Tirupati,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/chennai-to-tirupathi,Chennai to Tirupati,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/chennai-to-tirupathi,Chennai to Tirupati,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/chennai-to-tirupathi,Chennai to Tirupati,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/chennai-to-tirupathi,Chennai to Tirupati,APSRTC
+APSRTC - 3500,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",15:45,04:15,12h 30m,INR 695,28 Seats available,"3.3
+22",https://www.redbus.in/bus-tickets/hyderabad-to-rajahmundry,Hyderabad to Rajahmundry,APSRTC
+APSRTC - 3376,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",16:45,02:00,09h 15m,INR 699,33 Seats available,"4.4
+10",https://www.redbus.in/bus-tickets/hyderabad-to-rajahmundry,Hyderabad to Rajahmundry,APSRTC
+APSRTC - 3358,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",16:45,05:00,12h 15m,INR 699,32 Seats available,"4.0
+8",https://www.redbus.in/bus-tickets/hyderabad-to-rajahmundry,Hyderabad to Rajahmundry,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/hyderabad-to-rajahmundry,Hyderabad to Rajahmundry,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/hyderabad-to-rajahmundry,Hyderabad to Rajahmundry,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/hyderabad-to-rajahmundry,Hyderabad to Rajahmundry,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/hyderabad-to-rajahmundry,Hyderabad to Rajahmundry,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/hyderabad-to-rajahmundry,Hyderabad to Rajahmundry,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/hyderabad-to-rajahmundry,Hyderabad to Rajahmundry,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/hyderabad-to-rajahmundry,Hyderabad to Rajahmundry,APSRTC
+APSRTC - 50144,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",17:45,23:00,05h 15m,INR 386,37 Seats available,"3.6
+43",https://www.redbus.in/bus-tickets/rayachoti-to-bangalore,Rayachoti to Bangalore,APSRTC
+APSRTC - 6018,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",18:30,23:10,04h 40m,INR 386,32 Seats available,"4.2
+18",https://www.redbus.in/bus-tickets/rayachoti-to-bangalore,Rayachoti to Bangalore,APSRTC
+APSRTC - 6010,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:30,04:00,06h 30m,INR 386,34 Seats available,"3.8
+64",https://www.redbus.in/bus-tickets/rayachoti-to-bangalore,Rayachoti to Bangalore,APSRTC
+APSRTC - 6240,"ULTRA DELUXE (NON-AC, 2+2 PUSH BACK)",22:15,04:00,05h 45m,INR 330,35 Seats available,"4.3
+49",https://www.redbus.in/bus-tickets/rayachoti-to-bangalore,Rayachoti to Bangalore,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/rayachoti-to-bangalore,Rayachoti to Bangalore,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/rayachoti-to-bangalore,Rayachoti to Bangalore,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/rayachoti-to-bangalore,Rayachoti to Bangalore,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/rayachoti-to-bangalore,Rayachoti to Bangalore,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/rayachoti-to-bangalore,Rayachoti to Bangalore,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/rayachoti-to-bangalore,Rayachoti to Bangalore,APSRTC
+APSRTC - 5870,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",18:30,03:00,08h 30m,INR 462,30 Seats available,4.0,https://www.redbus.in/bus-tickets/hyderabad-to-addanki,Hyderabad to Addanki,APSRTC
+APSRTC - 5859,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",19:00,03:00,08h 00m,INR 462,34 Seats available,4.0,https://www.redbus.in/bus-tickets/hyderabad-to-addanki,Hyderabad to Addanki,APSRTC
+APSRTC - 5994,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",19:30,04:30,09h 00m,INR 495,30 Seats available,"3.3
+14",https://www.redbus.in/bus-tickets/hyderabad-to-addanki,Hyderabad to Addanki,APSRTC
+APSRTC - 5922,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",19:45,04:15,08h 30m,INR 462,33 Seats available,"4.3
+4",https://www.redbus.in/bus-tickets/hyderabad-to-addanki,Hyderabad to Addanki,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/hyderabad-to-addanki,Hyderabad to Addanki,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/hyderabad-to-addanki,Hyderabad to Addanki,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/hyderabad-to-addanki,Hyderabad to Addanki,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/hyderabad-to-addanki,Hyderabad to Addanki,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/hyderabad-to-addanki,Hyderabad to Addanki,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/hyderabad-to-addanki,Hyderabad to Addanki,APSRTC
+APSRTC - 4537,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:30,03:10,05h 40m,INR 461,5 Seats available,"4.1
+57",https://www.redbus.in/bus-tickets/chilakaluripet-to-hyderabad,Chilakaluripet to Hyderabad,APSRTC
+APSRTC - 4553,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",21:45,03:25,05h 40m,INR 461,1 Seat available,"4.4
+47",https://www.redbus.in/bus-tickets/chilakaluripet-to-hyderabad,Chilakaluripet to Hyderabad,APSRTC
+APSRTC - 4526,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:00,03:40,05h 40m,INR 461,6 Seats available,"3.1
+16",https://www.redbus.in/bus-tickets/chilakaluripet-to-hyderabad,Chilakaluripet to Hyderabad,APSRTC
+APSRTC - 5816,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",22:10,03:25,05h 15m,INR 470,5 Seats available,"3.8
+29",https://www.redbus.in/bus-tickets/chilakaluripet-to-hyderabad,Chilakaluripet to Hyderabad,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/chilakaluripet-to-hyderabad,Chilakaluripet to Hyderabad,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/chilakaluripet-to-hyderabad,Chilakaluripet to Hyderabad,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/chilakaluripet-to-hyderabad,Chilakaluripet to Hyderabad,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/chilakaluripet-to-hyderabad,Chilakaluripet to Hyderabad,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/chilakaluripet-to-hyderabad,Chilakaluripet to Hyderabad,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/chilakaluripet-to-hyderabad,Chilakaluripet to Hyderabad,APSRTC
+APSRTC - 3383,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",16:00,03:15,11h 15m,INR 605,33 Seats available,3.7,https://www.redbus.in/bus-tickets/visakhapatnam-to-vijayawada,Visakhapatnam to Vijayawada,APSRTC
+APSRTC - 3365,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",16:15,02:25,10h 10m,INR 605,32 Seats available,3.7,https://www.redbus.in/bus-tickets/visakhapatnam-to-vijayawada,Visakhapatnam to Vijayawada,APSRTC
+APSRTC - 9459,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",16:30,01:15,08h 45m,INR 605,34 Seats available,3.7,https://www.redbus.in/bus-tickets/visakhapatnam-to-vijayawada,Visakhapatnam to Vijayawada,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/visakhapatnam-to-vijayawada,Visakhapatnam to Vijayawada,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/visakhapatnam-to-vijayawada,Visakhapatnam to Vijayawada,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/visakhapatnam-to-vijayawada,Visakhapatnam to Vijayawada,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/visakhapatnam-to-vijayawada,Visakhapatnam to Vijayawada,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/visakhapatnam-to-vijayawada,Visakhapatnam to Vijayawada,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/visakhapatnam-to-vijayawada,Visakhapatnam to Vijayawada,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/visakhapatnam-to-vijayawada,Visakhapatnam to Vijayawada,APSRTC
+APSRTC - 2865,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",18:30,04:30,10h 00m,INR 718,7 Seats available,"4.4
+24",https://www.redbus.in/bus-tickets/rajahmundry-to-hyderabad,Rajahmundry to Hyderabad,APSRTC
+APSRTC - 4943,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",19:00,05:00,10h 00m,INR 718,2 Seats available,"3.5
+13",https://www.redbus.in/bus-tickets/rajahmundry-to-hyderabad,Rajahmundry to Hyderabad,APSRTC
+APSRTC - 2785,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",19:30,03:15,07h 45m,INR 728,10 Seats available,"4.4
+49",https://www.redbus.in/bus-tickets/rajahmundry-to-hyderabad,Rajahmundry to Hyderabad,APSRTC
+APSRTC - 2586,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:15,05:15,09h 00m,INR 728,10 Seats available,"4.0
+41",https://www.redbus.in/bus-tickets/rajahmundry-to-hyderabad,Rajahmundry to Hyderabad,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/rajahmundry-to-hyderabad,Rajahmundry to Hyderabad,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/rajahmundry-to-hyderabad,Rajahmundry to Hyderabad,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/rajahmundry-to-hyderabad,Rajahmundry to Hyderabad,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/rajahmundry-to-hyderabad,Rajahmundry to Hyderabad,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/rajahmundry-to-hyderabad,Rajahmundry to Hyderabad,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/rajahmundry-to-hyderabad,Rajahmundry to Hyderabad,APSRTC
+APSRTC - 5815,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",18:50,03:00,08h 10m,INR 470,15 Seats available,"3.8
+18",https://www.redbus.in/bus-tickets/hyderabad-to-chilakaluripet,Hyderabad to Chilakaluripet,APSRTC
+APSRTC - 9206,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:25,03:45,07h 20m,INR 470,10 Seats available,"4.7
+26",https://www.redbus.in/bus-tickets/hyderabad-to-chilakaluripet,Hyderabad to Chilakaluripet,APSRTC
+APSRTC - 4529,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:45,04:30,07h 45m,INR 428,27 Seats available,"4.1
+40",https://www.redbus.in/bus-tickets/hyderabad-to-chilakaluripet,Hyderabad to Chilakaluripet,APSRTC
+APSRTC - 4538,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",20:45,04:30,07h 45m,INR 428,31 Seats available,"3.9
+40",https://www.redbus.in/bus-tickets/hyderabad-to-chilakaluripet,Hyderabad to Chilakaluripet,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/hyderabad-to-chilakaluripet,Hyderabad to Chilakaluripet,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/hyderabad-to-chilakaluripet,Hyderabad to Chilakaluripet,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/hyderabad-to-chilakaluripet,Hyderabad to Chilakaluripet,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/hyderabad-to-chilakaluripet,Hyderabad to Chilakaluripet,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/hyderabad-to-chilakaluripet,Hyderabad to Chilakaluripet,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/hyderabad-to-chilakaluripet,Hyderabad to Chilakaluripet,APSRTC
+APSRTC - 9478,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",15:45,20:45,05h 00m,INR 344,33 Seats available,"2.8
+6",https://www.redbus.in/bus-tickets/visakhapatnam-to-rajahmundry,Visakhapatnam to Rajahmundry,APSRTC
+APSRTC - 3383,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",16:00,22:45,06h 45m,INR 342,33 Seats available,3.8,https://www.redbus.in/bus-tickets/visakhapatnam-to-rajahmundry,Visakhapatnam to Rajahmundry,APSRTC
+APSRTC - 3365,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",16:15,22:40,06h 25m,INR 342,32 Seats available,3.8,https://www.redbus.in/bus-tickets/visakhapatnam-to-rajahmundry,Visakhapatnam to Rajahmundry,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/visakhapatnam-to-rajahmundry,Visakhapatnam to Rajahmundry,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/visakhapatnam-to-rajahmundry,Visakhapatnam to Rajahmundry,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/visakhapatnam-to-rajahmundry,Visakhapatnam to Rajahmundry,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/visakhapatnam-to-rajahmundry,Visakhapatnam to Rajahmundry,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/visakhapatnam-to-rajahmundry,Visakhapatnam to Rajahmundry,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/visakhapatnam-to-rajahmundry,Visakhapatnam to Rajahmundry,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/visakhapatnam-to-rajahmundry,Visakhapatnam to Rajahmundry,APSRTC
+TGSRTC - 2995,LAHARI A/C SLEEPER CUM SEATER,15:30,22:30,07h 00m,INR 547,34 Seats available,"3.8
+43",https://www.redbus.in/bus-tickets/bangalore-to-kurnool,Bangalore to Kurnool,APSRTC
+TGSRTC - 7809,LAHARI A/C SLEEPER CUM SEATER,18:30,00:30,06h 00m,INR 547,34 Seats available,"3.2
+16",https://www.redbus.in/bus-tickets/bangalore-to-kurnool,Bangalore to Kurnool,APSRTC
+TGSRTC - 1957,Super Luxury (Non AC Seater 2+2 Push Back),19:00,02:15,07h 15m,INR 479,29 Seats available,3.8,https://www.redbus.in/bus-tickets/bangalore-to-kurnool,Bangalore to Kurnool,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/bangalore-to-kurnool,Bangalore to Kurnool,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/bangalore-to-kurnool,Bangalore to Kurnool,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/bangalore-to-kurnool,Bangalore to Kurnool,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/bangalore-to-kurnool,Bangalore to Kurnool,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/bangalore-to-kurnool,Bangalore to Kurnool,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/bangalore-to-kurnool,Bangalore to Kurnool,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/bangalore-to-kurnool,Bangalore to Kurnool,APSRTC
+APSRTC - 2853,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",16:30,01:50,09h 20m,INR 555,33 Seats available,3.6,https://www.redbus.in/bus-tickets/vijayawada-to-kurnool,Vijayawada to Kurnool,APSRTC
+APSRTC - 6946,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",17:30,02:15,08h 45m,INR 555,33 Seats available,"3.1
+6",https://www.redbus.in/bus-tickets/vijayawada-to-kurnool,Vijayawada to Kurnool,APSRTC
+APSRTC - 51625,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",18:00,03:00,09h 00m,INR 555,33 Seats available,"3.9
+6",https://www.redbus.in/bus-tickets/vijayawada-to-kurnool,Vijayawada to Kurnool,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/vijayawada-to-kurnool,Vijayawada to Kurnool,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/vijayawada-to-kurnool,Vijayawada to Kurnool,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/vijayawada-to-kurnool,Vijayawada to Kurnool,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/vijayawada-to-kurnool,Vijayawada to Kurnool,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/vijayawada-to-kurnool,Vijayawada to Kurnool,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/vijayawada-to-kurnool,Vijayawada to Kurnool,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/vijayawada-to-kurnool,Vijayawada to Kurnool,APSRTC
+APSRTC - 23960,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",15:45,19:15,03h 30m,INR 260,33 Seats available,"2.9
+7",https://www.redbus.in/bus-tickets/vijayawada-to-rajahmundry,Vijayawada to Rajahmundry,APSRTC
+APSRTC - 3009,"SUPER LUXURY (NON-AC, 2 + 2 PUSH BACK)",15:45,19:30,03h 45m,INR 263,31 Seats available,3.9,https://www.redbus.in/bus-tickets/vijayawada-to-rajahmundry,Vijayawada to Rajahmundry,APSRTC
+APSRTC - 3492,AMARAVATHI (VOLVO / SCANIA A.C Multi Axle),16:00,19:15,03h 15m,INR 401,42 Seats available,"4.3
+61",https://www.redbus.in/bus-tickets/vijayawada-to-rajahmundry,Vijayawada to Rajahmundry,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/vijayawada-to-rajahmundry,Vijayawada to Rajahmundry,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/vijayawada-to-rajahmundry,Vijayawada to Rajahmundry,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/vijayawada-to-rajahmundry,Vijayawada to Rajahmundry,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/vijayawada-to-rajahmundry,Vijayawada to Rajahmundry,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/vijayawada-to-rajahmundry,Vijayawada to Rajahmundry,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/vijayawada-to-rajahmundry,Vijayawada to Rajahmundry,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/vijayawada-to-rajahmundry,Vijayawada to Rajahmundry,APSRTC
+TGSRTC - 7471,Super Luxury (Non AC Seater 2+2 Push Back),16:55,01:25,08h 30m,INR 592,2 Seats available,"1.6
+13",https://www.redbus.in/bus-tickets/hyderabad-to-kanigiri,Hyderabad to Kanigiri,APSRTC
+TGSRTC - 6001,Super Luxury (Non AC Seater 2+2 Push Back),17:25,02:50,09h 25m,INR 621,5 Seats available,2.7,https://www.redbus.in/bus-tickets/hyderabad-to-kanigiri,Hyderabad to Kanigiri,APSRTC
+TGSRTC - 1638,Super Luxury (Non AC Seater 2+2 Push Back),17:45,03:15,09h 30m,INR 592,1 Seat available,"3.7
+10",https://www.redbus.in/bus-tickets/hyderabad-to-kanigiri,Hyderabad to Kanigiri,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/hyderabad-to-kanigiri,Hyderabad to Kanigiri,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/hyderabad-to-kanigiri,Hyderabad to Kanigiri,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/hyderabad-to-kanigiri,Hyderabad to Kanigiri,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/hyderabad-to-kanigiri,Hyderabad to Kanigiri,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/hyderabad-to-kanigiri,Hyderabad to Kanigiri,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/hyderabad-to-kanigiri,Hyderabad to Kanigiri,APSRTC
+,,,,,,,,https://www.redbus.in/bus-tickets/hyderabad-to-kanigiri,Hyderabad to Kanigiri,APSRTC
